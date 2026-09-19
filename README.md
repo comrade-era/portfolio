@@ -3,6 +3,8 @@
 > **Cybersecurity Engineer | VAPT & Application Security**  
 > *"Breaking systems ethically, so no one else has to break them maliciously."*
 
+🌐 **Live Website**: [https://portfolio-eta-three-ot4nly2gr6.vercel.app](https://portfolio-eta-three-ot4nly2gr6.vercel.app)
+
 A dark, hacker-terminal themed personal portfolio website built with modern web technologies.
 
 ---
